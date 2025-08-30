@@ -1,33 +1,32 @@
-# JavaScript-Mini-App
-🚀 JavaScript Mini App
+# 🚀 JavaScript Mini App  
 
-This project is a collection of beginner-friendly JavaScript mini apps bundled into a single web page, styled with Tailwind CSS and featuring LocalStorage for data persistence.
+This project is a **collection of beginner-friendly JavaScript mini apps** bundled into a single web page, styled with **Tailwind CSS** and featuring **LocalStorage** for data persistence.  
 
-📌 Features
-1. ✍️ Character Counter
+## 📌 Features  
 
-Live character counter that updates as you type.
+### 1. ✍️ Character Counter  
+- Live character counter that updates as you type.  
+- Shows how many characters are used out of the max (100).  
 
-Shows how many characters are used out of the max (100).
+### 2. 🧮 Simple Calculator  
+- Perform basic arithmetic operations (**Add, Subtract, Multiply, Divide**).  
+- Handles divide-by-zero errors gracefully.  
 
-2. 🧮 Simple Calculator
+### 3. ✅ To-Do List (with LocalStorage)  
+- Add, delete, and manage tasks.  
+- Tasks are saved in **LocalStorage**, so they persist even after refreshing the page.  
 
-Perform basic arithmetic operations (Add, Subtract, Multiply, Divide).
+## 🛠️ Tech Stack  
+- **HTML5**  
+- **Tailwind CSS** (for styling)  
+- **Vanilla JavaScript** (for logic & interactivity)  
+- **LocalStorage** (for persistence)  
 
-Handles divide-by-zero errors gracefully.
+## 📸 Preview  
+(Add a screenshot of your app here if possible!)  
 
-3. ✅ To-Do List (with LocalStorage)
+## 🚀 How to Run  
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/javascript-mini-app.git
 
-Add, delete, and manage tasks.
-
-Tasks are saved in LocalStorage, so they persist even after refreshing the page.
-
-🛠️ Tech Stack
-
-HTML5
-
-Tailwind CSS (for styling)
-
-Vanilla JavaScript (for logic & interactivity)
-
-LocalStorage (for persistence)
